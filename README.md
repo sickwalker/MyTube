@@ -1,1 +1,1 @@
-A clone of Youtube video player by using youtube api for instant search result and instant search update
+A clone of Youtube video player by using youtube *API* for instant search result and instant search update
